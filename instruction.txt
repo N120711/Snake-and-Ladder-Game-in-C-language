@@ -1,0 +1,14 @@
+		*********************************************************
+		*		SNAKES AND LADDERS GAME			*
+		*							*
+		*					By		*
+		*					N120711		*
+		*					N120696		*
+		*********************************************************
+
+Instructions::
+1.Given two folders[Linux,Windows] each folder contains difference i coding...
+2.Kindly  remember game.c is main file, so compile it to start...
+3.In Linux we have implemented colors to show names and positions
+4.In case of windows no coloring but starting effects are different...
+5.Thank You........

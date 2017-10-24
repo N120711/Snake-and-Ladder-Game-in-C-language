@@ -1,0 +1,12 @@
+*******************************************************
+*               SNAKES AND LADDERS GAME TUTORIAL      *
+*******************************************************
+* 1. Choose your option from main menu                *
+* 2. If your option is cpu player just Enter your Name*
+*    and  password.				      *
+* 3.This password is used in future to reload the game*
+*    if you save the game...                          *
+* 4.Press Enter to through Your Dice...               *
+* 5.See your moves at right side of pannel            *
+*                                                     *
+*******************************************************
